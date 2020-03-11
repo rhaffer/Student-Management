@@ -12,6 +12,10 @@ using namespace std;
 class Student{
 private:
 	string studentID;
+	string fName;
+	string lName;
+	int age;
+
 };
 
 
