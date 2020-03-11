@@ -1,8 +1,0 @@
-/*
- * student.cpp
- *      Author: rhaffer
- */
-
-
-
-
