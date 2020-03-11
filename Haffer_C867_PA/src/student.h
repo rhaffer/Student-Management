@@ -15,7 +15,7 @@ private:
 	string fName;
 	string lName;
 	int age;
-
+	int daysToComplete[];
 };
 
 
